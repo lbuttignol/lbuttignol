@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋. I'm Leandro Buttignol.</h1>
-<h3 align="center">An Argentinian Software Engineer living in Australia ✈️</h3>
 
-- 💬 You can ask me about **React, React Native, Node, JavaScript.**
+- 💬 You can ask me about **React, React Native, Node, JavaScript and TypeScript.**
 
 - 📫 How to reach me **leandrobuttignol@gmail.com**
 
